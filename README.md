@@ -15,6 +15,15 @@ El proyecto está alojado en **Netlify** y se actualiza automáticamente con cad
 - 🧱 **HTML5 & CSS3** — Estructura y estilos base.
 
 ---
+## Características principales
+
+* Listado de personajes del universo Dragon Ball.
+* Visualización de planetas y entidades.
+* Diseño responsive compatible con dispositivos móviles.
+* Navegación dinámica sin recarga de página (SPA).
+* Integración directa con API externa.
+
+---
 
 ## Estructura del proyecto
 ```
@@ -79,6 +88,13 @@ Ejemplos de endpoints:
 -   `/planets` → Lista de planetas
 
 ---
+## Enlaces
+
+* 🌍 **Deploy (Netlify):** https://dragon-ball-react-emerson.netlify.app
+* 💻 **Repositorio (GitHub):** https://github.com/EmersonFQ7/React-Dragon-Ball
+* 🎥 **Video demostrativo:** https://youtu.be/vguILgCN20c
+
+---
 
 ## 📦 Dependencias
 
@@ -92,35 +108,3 @@ Ejemplos de endpoints:
 }
 
 ---
-
-## 🔗 Enlaces
-
-* 🌍 Deploy (Netlify): [https://dragon-ball-react-emerson.netlify.app](https://dragon-ball-react-emerson.netlify.app)
-* 💻 Repositorio (GitHub): [https://github.com/EmersonFQ7/React-Dragon-Ball](https://github.com/EmersonFQ7/React-Dragon-Ball)
-* 🎥 Video demostrativo: [https://youtu.be/vguILgCN20c](https://youtu.be/vguILgCN20c)
-
----
-
-## 🧩 Características principales
-
-* Listado de personajes del universo Dragon Ball.
-* Visualización de planetas y entidades.
-* Diseño responsive compatible con dispositivos móviles.
-* Navegación dinámica sin recarga de página (SPA).
-* Integración directa con API externa.
-
----
-
-## 🔗 Enlaces
-
-* 🌍 **Deploy (Netlify):** https://dragon-ball-react-emerson.netlify.app
-* 💻 **Repositorio (GitHub):** https://github.com/EmersonFQ7/React-Dragon-Ball
-* 🎥 **Video demostrativo:** https://youtu.be/vguILgCN20c
-
----
-
-## 👨‍💻 Desarrollado por
-
-**Emerson Flores Q.**
-📅 2025
-GitHub: [@EmersonFQ7](https://github.com/EmersonFQ7)
