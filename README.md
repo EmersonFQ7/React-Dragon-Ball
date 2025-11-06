@@ -16,11 +16,37 @@ El proyecto está alojado en **Netlify** y se actualiza automáticamente con cad
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
+```
+dragonball-react/
+│
+├── src/
+│   ├── components/
+│   │   ├── common/
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Footer.jsx
+│   │   ├── home/
+│   │   │   ├── HeroSection.jsx
+│   │   │   └── CharacterList.jsx
+│   │   └── entities/
+│   │       └── EntityList.jsx
+│   │
+│   ├── pages/
+│   │   ├── HomePage.jsx
+│   │   └── EntitiesPage.jsx
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── public/
+├── package.json
+└── README.md
+```
 
-
-
-React-Dragon-Ball/ | src/ | components/ | common/ | Navbar.jsx | Footer.jsx | home/ | HeroSection.jsx | CharacterList.jsx | entities/ | EntityList.jsx | pages/ | HomePage.jsx | EntitiesPage.jsx | services/ | api.js | App.jsx | main.jsx | public/ | package.json | README.md
+---
 
 ## ⚙️ Instalación y ejecución
 
@@ -65,18 +91,28 @@ Ejemplos de endpoints:
   "react-router-dom": "^7.9.5"
 }
 
-# 🔗 Enlaces
-- 🌍 **Deploy (Netlify):** [https://dragon-ball-react-emerson.netlify.app](https://dragon-ball-react-emerson.netlify.app)  
-- 💻 **Repositorio (GitHub):** [https://github.com/EmersonFQ7/React-Dragon-Ball](https://github.com/EmersonFQ7/React-Dragon-Ball)  
-- 🎥 **Video demostrativo:** [https://youtu.be/vguILgCN20c](https://youtu.be/vguILgCN20c)  
+---
 
-# 🧩 Características principales
-- Listado de personajes del universo Dragon Ball.  
-- Visualización de planetas y entidades.  
-- Diseño responsive compatible con dispositivos móviles.  
-- Navegación dinámica sin recarga de página (SPA).  
-- Integración directa con API externa.  
+## 🔗 Enlaces
 
-# 👨‍💻 Desarrollado por
-**Emerson Flores Q.** 📅 2025  
+* 🌍 Deploy (Netlify): [https://dragon-ball-react-emerson.netlify.app](https://dragon-ball-react-emerson.netlify.app)
+* 💻 Repositorio (GitHub): [https://github.com/EmersonFQ7/React-Dragon-Ball](https://github.com/EmersonFQ7/React-Dragon-Ball)
+* 🎥 Video demostrativo: [https://youtu.be/vguILgCN20c](https://youtu.be/vguILgCN20c)
+
+---
+
+## 🧩 Características principales
+
+* Listado de personajes del universo Dragon Ball.
+* Visualización de planetas y entidades.
+* Diseño responsive compatible con dispositivos móviles.
+* Navegación dinámica sin recarga de página (SPA).
+* Integración directa con API externa.
+
+---
+
+## 👨‍💻 Desarrollado por
+
+**Emerson Flores Q.**
+📅 2025
 GitHub: [@EmersonFQ7](https://github.com/EmersonFQ7)
