@@ -111,6 +111,14 @@ Ejemplos de endpoints:
 
 ---
 
+## 🔗 Enlaces
+
+* 🌍 **Deploy (Netlify):** https://dragon-ball-react-emerson.netlify.app
+* 💻 **Repositorio (GitHub):** https://github.com/EmersonFQ7/React-Dragon-Ball
+* 🎥 **Video demostrativo:** https://youtu.be/vguILgCN20c
+
+---
+
 ## 👨‍💻 Desarrollado por
 
 **Emerson Flores Q.**
